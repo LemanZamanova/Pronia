@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pronia.DAL;
+using Pronia.Models;
 using Pronia.ViewModels;
 
 namespace Pronia.Controllers
@@ -19,6 +20,10 @@ namespace Pronia.Controllers
 
         public IActionResult Index()
         {
+
+            Product product = new Product();
+            Category category = new Category();
+
             #region List
 
             //List<Slider> slides = new List<Slider>
