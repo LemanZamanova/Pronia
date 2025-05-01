@@ -5,7 +5,9 @@
     "\\Pronia\\Controllers",
     "\\Pronia\\Models",
     "\\Pronia\\Models\\Base",
-    "\\Pronia\\ViewModels"
+    "\\Pronia\\ViewModels",
+    "\\Pronia\\Views",
+    "\\Pronia\\Views\\Home"
   ],
   "SelectedNode": "\\Pronia.sln",
   "PreviewInSolutionExplorer": false

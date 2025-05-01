@@ -1,5 +1,4 @@
-﻿@using Pronia.Models
-@using Pronia.ViewModels
+﻿
   @model HomeVm
 
 
@@ -156,12 +155,17 @@
                                     <div class="product-item">
                                         <div class="product-img">
                                             <a href="shop.html">
+                                                @{
+                                                    var primaryImage = product.ProductImage?.FirstOrDefault(pi => pi.IsPrimary == true)?.Image ?? "default.jpg";
+                                                    var secondaryImage = product.ProductImage?.FirstOrDefault(pi => pi.IsPrimary == false)?.Image ?? "default.jpg";
+                                                }
                                                 <img class="primary-img"
-                                                     src="~/assets/images/website-images/@product.ProductImage.FirstOrDefault(pi=>pi.IsPrimary==true).Image "
+                                                     src="~/assets/images/website-images/@primaryImage"
                                                      alt="Product Images" />
-                                                <img class="secondary-img"
-                                                     src="~/assets/images/website-images/@product.ProductImage.FirstOrDefault(pi=>pi.IsPrimary==false).Image "
+                                                <img class="secondary-img img-fluid"
+                                                     src="~/assets/images/website-images/@secondaryImage"
                                                      alt="Product Images" />
+
                                             </a>
                                             <div class="product-add-action">
                                                 <ul>

@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.DAL;
-using Pronia.Models;
 using Pronia.ViewModels;
 
 namespace Pronia.Controllers
@@ -22,8 +21,6 @@ namespace Pronia.Controllers
         public IActionResult Index()
         {
 
-            Product product = new Product();
-            Category category = new Category();
 
             #region List
 
@@ -68,8 +65,14 @@ namespace Pronia.Controllers
 
             HomeVm homeVm = new HomeVm
             {
-                Slides = _context.Slides.OrderBy(s => s.Order).Take(3).ToList(),
-                Products = _context.Products.Include(p => p.ProductImage).Take(8).ToList()
+                Slides = _context.Slides
+                .OrderBy(s => s.Order)
+                .Take(3)
+                .ToList(),
+                Products = _context.Products
+                .Take(8)
+                .Include(p => p.ProductImage.Where(pi => pi.IsPrimary != null))
+                .ToList()
 
             };
             return View(homeVm);

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dw+DvSxpvCQ9QCe+R8R16kmo+K7HpGdQ7MtHoSrbylg=",
+  "Hash": "hIX/U7AHJvCWF7gxBYevz2oIWAYg+zbVvdPQe+7AByA=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -3076,12 +3076,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgul.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgull.jpg",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\",
       "BasePath": "_content/Pronia",
-      "RelativePath": "assets/images/website-images/qizilgul.jpg",
+      "RelativePath": "assets/images/website-images/qizilgull.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3092,15 +3092,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\qizilgul.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\qizilgull.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgul2.jpg",
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgulw.jpg",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\",
       "BasePath": "_content/Pronia",
-      "RelativePath": "assets/images/website-images/qizilgul2.jpg",
+      "RelativePath": "assets/images/website-images/qizilgulw.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3111,7 +3111,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\qizilgul2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\qizilgulw.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\quotation.png",
@@ -3131,6 +3131,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\quotation.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\pink.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/pink.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\pink.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\service.png",

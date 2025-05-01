@@ -645,12 +645,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
     },
     {
-      "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgul.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\qizilgul.jpg"
+      "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\pink.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\pink.jpg"
     },
     {
-      "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgul2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\website-images\\qizilgul2.jpg"
+      "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgull.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\qizilgull.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\qizilgulw.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\qizilgulw.jpg"
     },
     {
       "Id": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\quotation.png",
