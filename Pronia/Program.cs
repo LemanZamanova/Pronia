@@ -11,7 +11,7 @@ namespace Pronia
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSqlServer("server=DESKTOP-6SBB04J\\SQLEXPRESS;database=Pronia;trusted_connection=true;integrated security=true;TrustServerCertificate=true;");
+                opt.UseSqlServer("server=DESKTOP-6SBB04J\\SQLEXPRESS;database=Pronio;trusted_connection=true;integrated security=true;TrustServerCertificate=true;");
 
             });
 

@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVA\\Desktop\\Pronia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430040219_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pronia\\Migrations\\20250430040219_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|c:\\users\\lenova\\desktop\\pronia\\pronia\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DADA9-D331-4285-98C3-1314DB27D742}|Pronia\\Pronia.csproj|solutionrelative:pronia\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,86 +50,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Program.cs",
+              "RelativeToolTip": "Pronia\\Program.cs",
+              "ViewState": "AQIAABcAAABAmpmZmZktwA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:24:18.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwKEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T08:25:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "Pronia\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "Pronia\\ViewModels\\HomeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:41:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pronia\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Pronia\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:23:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250430040219_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430040219_Initial.cs",
-              "RelativeDocumentMoniker": "Pronia\\Migrations\\20250430040219_Initial.cs",
-              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430040219_Initial.cs",
-              "RelativeToolTip": "Pronia\\Migrations\\20250430040219_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T04:02:19.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250430035854_RenameCreateAtColumn.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs",
-              "RelativeDocumentMoniker": "Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs",
-              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs",
-              "RelativeToolTip": "Pronia\\Migrations\\20250430035854_RenameCreateAtColumn.cs",
-              "ViewState": "AQIAAAAAAABgMzMzMzMrwAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T03:58:55.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250430034758_RenameCreateAtColumn.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs",
-              "RelativeDocumentMoniker": "Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs",
-              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs",
-              "RelativeToolTip": "Pronia\\Migrations\\20250430034758_RenameCreateAtColumn.cs",
-              "ViewState": "AQIAAAEAAAAwMzMzMzMrwBEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T03:47:58.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs",
-              "RelativeDocumentMoniker": "Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs",
-              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs",
-              "RelativeToolTip": "Pronia\\Migrations\\20250430033307_CreateProductAndCategoriesAndProductImagesTables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T03:33:08.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pronia\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Pronia\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABgAAADAzczMzMwuwBkAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wEoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:26:54.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Pronia\\Models\\Slider.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Slider.cs",
               "RelativeToolTip": "Pronia\\Models\\Slider.cs",
-              "ViewState": "AQIAAAQAAACAMzMzMzMrwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:25:18.793Z",
               "EditorCaption": ""
@@ -142,46 +142,46 @@
               "RelativeDocumentMoniker": "Pronia\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "Pronia\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:23:01.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Pronia\\Models\\ProductImage.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\ProductImage.cs",
               "RelativeToolTip": "Pronia\\Models\\ProductImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:18:46.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Pronia\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Category.cs",
               "RelativeToolTip": "Pronia\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:15:46.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Pronia\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Pronia\\Pronia\\Models\\Product.cs",
               "RelativeToolTip": "Pronia\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAKBTvQsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T03:21:50.519Z",
               "EditorCaption": ""

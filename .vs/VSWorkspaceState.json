@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pronia",
+    "\\Pronia\\Controllers",
+    "\\Pronia\\Models",
+    "\\Pronia\\Models\\Base",
+    "\\Pronia\\ViewModels"
   ],
   "SelectedNode": "\\Pronia.sln",
   "PreviewInSolutionExplorer": false
