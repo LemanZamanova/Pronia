@@ -7,7 +7,8 @@
     "\\Pronia\\Models\\Base",
     "\\Pronia\\ViewModels",
     "\\Pronia\\Views",
-    "\\Pronia\\Views\\Home"
+    "\\Pronia\\Views\\Home",
+    "\\Pronia\\Views\\Shop"
   ],
   "SelectedNode": "\\Pronia.sln",
   "PreviewInSolutionExplorer": false

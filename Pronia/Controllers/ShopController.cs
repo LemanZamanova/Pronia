@@ -24,7 +24,9 @@ namespace Pronia.Controllers
             {
                 return BadRequest();
             }
-            Product? product = _context.Products.Include(p => p.ProductImage)
+            Product? product = _context.Products
+                .Include(p => p.ProductImage.OrderByDescending(pi => pi.IsPrimary))
+                .Include(p => p.Category)
                 .FirstOrDefault(p => p.Id == id);
 
 
@@ -37,7 +39,11 @@ namespace Pronia.Controllers
             DetailVM detailVM = new DetailVM
             {
                 Product = product,
-                RelatedProducts = _context.Products.Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id).ToList()
+                RelatedProducts = _context.Products
+                .Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id)
+                .Take(8)
+                .Include(p => p.ProductImage.Where(pi => pi.IsPrimary != null))
+                .ToList()
 
 
 
