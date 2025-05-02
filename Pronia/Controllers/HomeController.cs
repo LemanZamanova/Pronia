@@ -15,10 +15,11 @@ namespace Pronia.Controllers
         {
             _context = context;
 
+
         }
 
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
 
 
@@ -65,14 +66,14 @@ namespace Pronia.Controllers
 
             HomeVm homeVm = new HomeVm
             {
-                Slides = _context.Slides
+                Slides = await _context.Slides
                 .OrderBy(s => s.Order)
                 .Take(3)
-                .ToList(),
-                Products = _context.Products
+                .ToListAsync(),
+                Products = await _context.Products
                 .Take(8)
                 .Include(p => p.ProductImage.Where(pi => pi.IsPrimary != null))
-                .ToList()
+                .ToListAsync()
 
             };
             return View(homeVm);
