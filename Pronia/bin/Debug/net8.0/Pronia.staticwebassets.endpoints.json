@@ -4268,6 +4268,9 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 90bbb49 (Admin update create)
       "Route": "Admin/images/faces/kedi.d5jdbw126u.jpg",
       "AssetFile": "Admin/images/faces/kedi.jpg",
       "Selectors": [],
@@ -4350,8 +4353,11 @@
       ]
     },
     {
+<<<<<<< HEAD
 =======
 >>>>>>> b2280af550acc33793663ccc747f8090ed2591e5
+=======
+>>>>>>> 90bbb49 (Admin update create)
       "Route": "Admin/images/favicon.f6yvutp49n.png",
       "AssetFile": "Admin/images/favicon.png",
       "Selectors": [],
@@ -4517,6 +4523,9 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 90bbb49 (Admin update create)
       "Route": "Admin/images/kedi.d5jdbw126u.jpg",
       "AssetFile": "Admin/images/kedi.jpg",
       "Selectors": [],
@@ -4599,8 +4608,11 @@
       ]
     },
     {
+<<<<<<< HEAD
 =======
 >>>>>>> b2280af550acc33793663ccc747f8090ed2591e5
+=======
+>>>>>>> 90bbb49 (Admin update create)
       "Route": "Admin/images/logo-mini.e3sko6k3zb.svg",
       "AssetFile": "Admin/images/logo-mini.svg",
       "Selectors": [],
