@@ -50,10 +50,15 @@ wwwroot\Admin\images\faces\face6.jpg
 wwwroot\Admin\images\faces\face7.jpg
 wwwroot\Admin\images\faces\face8.jpg
 wwwroot\Admin\images\faces\face9.jpg
+<<<<<<< HEAD
 wwwroot\Admin\images\faces\kedi.jpg
 wwwroot\Admin\images\favicon.ico
 wwwroot\Admin\images\favicon.png
 wwwroot\Admin\images\kedi.jpg
+=======
+wwwroot\Admin\images\favicon.ico
+wwwroot\Admin\images\favicon.png
+>>>>>>> b2280af550acc33793663ccc747f8090ed2591e5
 wwwroot\Admin\images\logo.svg
 wwwroot\Admin\images\logo-mini.svg
 wwwroot\Admin\js\chart.js
